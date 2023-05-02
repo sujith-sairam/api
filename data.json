@@ -1,0 +1,46 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "T-Shirt",
+        "description": "Comfortable cotton t-shirt",
+        "price": 19.99,
+        "image": "https://example.com/images/tshirt.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Jeans",
+        "description": "Classic denim jeans",
+        "price": 39.99,
+        "image": "https://example.com/images/jeans.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Hoodie",
+        "description": "Warm and cozy hoodie",
+        "price": 29.99,
+        "image": "https://example.com/images/hoodie.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sneakers",
+        "description": "Stylish and comfortable sneakers",
+        "price": 59.99,
+        "image": "https://example.com/images/sneakers.jpg"
+      }
+    ],
+    "cart": {
+      "items": [
+        {
+          "productId": 1,
+          "quantity": 2
+        },
+        {
+          "productId": 3,
+          "quantity": 1
+        }
+      ],
+      "total": 69.97
+    }
+  }
+  
